@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/FileUpLoad" />
+    <file type="web" url="file://$PROJECT_DIR$/JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/Request" />
+    <file type="web" url="file://$PROJECT_DIR$/Response" />
+    <file type="web" url="file://$PROJECT_DIR$/Servlet01" />
+    <file type="web" url="file://$PROJECT_DIR$/Servlet02" />
+    <file type="web" url="file://$PROJECT_DIR$/smbms" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
